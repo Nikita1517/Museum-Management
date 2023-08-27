@@ -60,12 +60,6 @@ The Museum Management System is your one-stop solution for seamlessly managing m
         </p>
   </div>
   <div>
-        <h4>Paperless Museum Management:</h4>
-        <p>
-            By transitioning from paper-based record-keeping to an organized digital system, the project significantly reduces paper usage, making operations more efficient and eco-friendly.
-        </p>
-  </div>
-  <div>
         <h4>Reduced Visitor Congestion</h4>
         <p>
             With efficient online ticket booking and data management, the system helps reduce visitor congestion at museums, ensuring a more enjoyable visit.
