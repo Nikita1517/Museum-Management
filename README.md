@@ -87,5 +87,16 @@ Providing fast and easy access to visitor records.</p>
         </p>
        <!-- <img src="./image/login3.jpg" alt="Bank Image">-->
   </div>
+  <div>
+![Capture2](https://github.com/Nikita1517/Museum-Management/assets/73489837/b99b353c-1d6a-4d89-b621-ad1fb1b5f741)
+![Capture1](https://github.com/Nikita1517/Museum-Management/assets/73489837/3ebaecdc-0f91-4c0c-b6e5-9c61b09c8fb6)
+![Capture](https://github.com/Nikita1517/Museum-Management/assets/73489837/a1e62e9e-f38a-4528-8563-ac582eef00cc)
+![Capture7](https://github.com/Nikita1517/Museum-Management/assets/73489837/c6334690-7fd6-437e-9d7d-b295f1674925)
+![Capture6](https://github.com/Nikita1517/Museum-Management/assets/73489837/53d89705-5939-4653-93aa-c98077d5e92c)
+![Capture5](https://github.com/Nikita1517/Museum-Management/assets/73489837/232951a3-7217-4dff-825b-8aa6392a8326)
+![Capture4](https://github.com/Nikita1517/Museum-Management/assets/73489837/2df0d978-ad84-4026-b63d-33bed3a4067f)
+![Capture3](https://github.com/Nikita1517/Museum-Management/assets/73489837/bd6cd827-ed1d-4c5a-aac3-0dc4fd590fd5)
+
+  </div>
 </body>
 </html>
